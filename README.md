@@ -32,6 +32,10 @@
 
 ![image](https://user-images.githubusercontent.com/2707039/209969443-3e1065a5-9406-4c86-aa2a-d6c38f424032.png)
 
+### 无症状感染率
+
+1. [新冠感染后，真正的无症状感染者比例是43.7%](https://mp.weixin.qq.com/s/jR1P7ND_B4DT8Vtp6jP3tg)
+    1. [SARS-CoV-2 Serology and Self-Reported Infection Among Adults — National Health and Nutrition Examination Survey, United States, August 2021–May 2022](https://www.cdc.gov/mmwr/volumes/71/wr/mm7148a4.htm)
 
 ## 应对手段
 
@@ -57,6 +61,9 @@
 6. 拉米夫定：https://www.ijmmtd.org/article-details/13463 （感染率从48%降至2%，很夸张，真实性未知）
     1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8335563/ （药理研究显示有潜力，并推荐做实验）
     2. [Putative Repurposing of Lamivudine, a Nucleoside/Nucleotide Analogue and Antiretroviral to Improve t](https://www.frontiersin.org/articles/10.3389/fonc.2021.664794/full)
+7. [Paxlovid、Molnupiravir、阿兹夫定和连花清瘟，谁是首席抗新冠“神药”？](https://mp.weixin.qq.com/s/EB97NnPz-raOa7hieFm7mg)
+8. [柳叶刀最新发布：新冠患者居家抗炎治疗优先推荐选择性COX-2抑制剂](https://mp.weixin.qq.com/s/UZMdqwRLVzrrVyFOwcSahA)
+9. [布洛芬和布洛芬缓释有啥区别?](https://www.zhihu.com/question/573216624/answer/2810976086)
 
 ### 洗鼻
 
@@ -72,6 +79,10 @@
 4. [Hypertonic saline nasal irrigation and gargling should be considered as a treatment option for COVID](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7193539/)
     1. 对我们最近的爱丁堡和洛锡安病毒干预研究 (ELVIS) 试点随机对照试验 (RCT) 数据的事后二次分析表明，高渗盐水鼻腔冲洗和漱口 (HSNIG) 可将冠状病毒上呼吸道感染 (URTI) 的持续时间缩短为平均两天半。因此，它可能为感染 β 冠状病毒严重急性呼吸系统综合症冠状病毒 2 (SARS-CoV-2) [ 1 ]后感染冠状病毒病 19 (COVID-19) 的患者提供潜在安全、有效和可扩展的干预措施。
 5. [鼻腔盐水冲洗预防新型冠状病毒感染专家共识](https://cjoo.fdeent.org/CN/abstract/abstract12504.shtml)
+6. [Do saline water gargling and nasal irrigation confer protection against COVID-19?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7528968/)
+7. [Hypertonic saline nasal irrigation and gargling should be considered as a treatment option for COVID](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7193539/)
+8. [Efficacy and Safety of Saline Nasal Irrigation Plus Theophylline for COVID-19–Related Olfactory Dysf](https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2793987)
+9. https://www.jstage.jst.go.jp/article/bst/advpub/0/advpub_2022.01495/_pdf
 
 
 ### 疫苗
@@ -83,24 +94,11 @@
 ![image](https://user-images.githubusercontent.com/2707039/209971397-a4072efe-d37a-487e-b8d8-58f91e09a82b.png)
 
 
-## 参考文献
-
-1. 药物相关
-    1. [Paxlovid、Molnupiravir、阿兹夫定和连花清瘟，谁是首席抗新冠“神药”？](https://mp.weixin.qq.com/s/EB97NnPz-raOa7hieFm7mg)
-    2. [柳叶刀最新发布：新冠患者居家抗炎治疗优先推荐选择性COX-2抑制剂](https://mp.weixin.qq.com/s/UZMdqwRLVzrrVyFOwcSahA)
-    3. [布洛芬和布洛芬缓释有啥区别?](https://www.zhihu.com/question/573216624/answer/2810976086)
-3. [新冠感染后，真正的无症状感染者比例是43.7%](https://mp.weixin.qq.com/s/jR1P7ND_B4DT8Vtp6jP3tg)
-    1. [SARS-CoV-2 Serology and Self-Reported Infection Among Adults — National Health and Nutrition Examination Survey, United States, August 2021–May 2022](https://www.cdc.gov/mmwr/volumes/71/wr/mm7148a4.htm)
-4. 鼻腔冲洗相关
-    1. [Do saline water gargling and nasal irrigation confer protection against COVID-19?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7528968/)
-    2. [Hypertonic saline nasal irrigation and gargling should be considered as a treatment option for COVID](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7193539/)
-    3. [Efficacy and Safety of Saline Nasal Irrigation Plus Theophylline for COVID-19–Related Olfactory Dysf](https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2793987)
-    4. https://www.jstage.jst.go.jp/article/bst/advpub/0/advpub_2022.01495/_pdf
-5. 后遗症相关
-    1. [Nature子刊:重磅!无症状感染者，没有新冠后遗症 - 进展专区 - 生物谷](https://news.bioon.com/article/754fe43262fb.html)
-    2. [Outcomes among confirmed cases and a matched comparison group in the Long-COVID in Scotland study](https://www.nature.com/articles/s41467-022-33415-5)
-    3. [Burdens of post-acute sequelae of COVID-19 by severity of acute infection, demographics and health](https://www.nature.com/articles/s41467-021-26513-3)
-    4. [Acute and postacute sequelae associated with SARS-CoV-2 reinfection - Nature Medicine](https://www.nature.com/articles/s41591-022-02051-3)
-        1. 在这里，我们使用美国退伍军人事务部的国家医疗保健数据库建立了一组感染 SARS-CoV-2 的个体（n  = 443,588）、再感染（两次或更多感染，n  = 40,947）和未感染的对照（n = 5,334,729）。我们使用逆概率加权生存模型来估计死亡、住院和事件后遗症的风险和 6 个月的负担。与没有再感染相比，再感染会导致额外的死亡风险（风险比 (HR) = 2.17，95% 置信区间 (CI) 1.93–2.45）、住院（HR = 3.32，95% CI 3.13–3.51）和后遗症。（注：这里数据和日本提供的数据差异很大，存疑）
-    5. L[ong COVID: long-term health outcomes and implications for policy and research - Nature Reviews Neph](https://www.nature.com/articles/s41581-022-00652-2)
+## 后遗症相关
+1. [Nature子刊:重磅!无症状感染者，没有新冠后遗症 - 进展专区 - 生物谷](https://news.bioon.com/article/754fe43262fb.html)
+2. [Outcomes among confirmed cases and a matched comparison group in the Long-COVID in Scotland study](https://www.nature.com/articles/s41467-022-33415-5)
+3. [Burdens of post-acute sequelae of COVID-19 by severity of acute infection, demographics and health](https://www.nature.com/articles/s41467-021-26513-3)
+4. [Acute and postacute sequelae associated with SARS-CoV-2 reinfection - Nature Medicine](https://www.nature.com/articles/s41591-022-02051-3)
+    1. 在这里，我们使用美国退伍军人事务部的国家医疗保健数据库建立了一组感染 SARS-CoV-2 的个体（n  = 443,588）、再感染（两次或更多感染，n  = 40,947）和未感染的对照（n = 5,334,729）。我们使用逆概率加权生存模型来估计死亡、住院和事件后遗症的风险和 6 个月的负担。与没有再感染相比，再感染会导致额外的死亡风险（风险比 (HR) = 2.17，95% 置信区间 (CI) 1.93–2.45）、住院（HR = 3.32，95% CI 3.13–3.51）和后遗症。（注：这里数据和日本提供的数据差异很大，存疑）
+5. L[ong COVID: long-term health outcomes and implications for policy and research - Nature Reviews Neph](https://www.nature.com/articles/s41581-022-00652-2)
 
